@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89acf734-734d-475e-be0f-e2a4e6083f42" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem11ArrayProduct" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem12TriangleNumberDivisor" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem13BigSums.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem14Collatz.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem16PowerDigitSum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem17NumberLetterCounts.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problem18MaxTrianglePathSum.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problems 1-25/problem22Names" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problems 1-25/problem23NonAbundantSums" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/problems 1-25/problem24LexographicPerms" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="projectEuler.iws" />
     <ignored path=".idea/workspace.xml" />
