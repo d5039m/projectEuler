@@ -2,7 +2,7 @@
 x = 1
 y = 1
 
-i = 3
+i = 2
 while len(str(y)) < 1000:
     c = x + y
     x = y
